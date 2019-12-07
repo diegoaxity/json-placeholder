@@ -1,0 +1,18 @@
+{
+  "response": true,
+  "message": "Checkin realizado con éxito.",
+  "data": {
+    "id": 2,
+    "ds_event_name": "NUEVO QR",
+    "ds_event_place": "SALA NUEVA",
+    "dt_event_date": "12/21/2019",
+    "str_event_date": "21 de Diciembre del 2019",
+    "event_hour": "16:00:00",
+    "dt_event_created": "12/05/2019 17:31:44",
+    "ds_host_email": "gabriel.cruz@axity.com",
+    "ds_host_name": "gabriel.cruz@axity.com",
+    "ds_email_invitado": "gacg30@hotmail.com",
+    "ds_name_invitado": "Gabriel Angel Cruz García"
+  },
+  "bitacoraID": 6
+}
